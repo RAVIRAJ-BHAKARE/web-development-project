@@ -1,2 +1,2 @@
-# web-development-project
+# restaurant-website
 A restaurant managing website 
